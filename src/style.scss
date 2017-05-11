@@ -1,0 +1,41 @@
+$white: #FFF;
+$fb-blue-color: #4267b2;
+$fb-blue-color-hover: #365899;
+
+.fb-share-button {
+  padding-bottom: 1px;
+  border-radius: 3px;
+  font-size: 12px;
+  height: 20px;
+  padding: 0 0 0 2px;
+  background: $fb-blue-color;
+  border: 1px solid $fb-blue-color;
+  color: $white;
+  cursor: pointer;
+  margin: 0;
+  white-space: nowrap;
+  display: inline-block;
+  zoom: 1;
+
+  &:hover {
+    background: $fb-blue-color-hover;
+    border: 1px solid $fb-blue-color-hover;
+  }
+}
+
+.fb-logo {
+  // background: url('assets/icon-facebook.svg') center no-repeat;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
+
+.fb-share-text {
+  font-family: Helvetica, Arial, sans-serif;
+  vertical-align: middle;
+  padding-left: 4px;
+  padding-right: 4px;
+  font-weight: bold;
+  font-size: 12px;
+}

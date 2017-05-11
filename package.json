@@ -1,0 +1,30 @@
+{
+  "name": "react-facebook-share-button",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/ShareFB.js",
+  "scripts": {
+    "build": "sagui build",
+    "dist": "sagui dist",
+    "start": "sagui develop --port 3000",
+    "test": "sagui test",
+    "test:lint": "sagui test:lint",
+    "test:typecheck": "sagui test:typecheck",
+    "test:unit": "sagui test:unit --coverage",
+    "test:unit:watch": "sagui test:unit --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dom-helpers": "^3.2.1"
+  },
+  "devDependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "sagui": "^8.0.7"
+  },
+  "peerDependencies": {
+    "react": ">14.0.0",
+    "react-dom": ">=14.0.0"
+  }
+}
