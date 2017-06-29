@@ -6,13 +6,13 @@ class App extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      appid: '51214793621',
-      href: 'http://blog.blackbing.net/',
-      title: 'Blackbing Playground',
-      desc: '記錄一些生活與工作的雜事，偶爾會寫一些前端網頁開發的心得',
-      picture: 'http://i.imgur.com/M93IVLH.png',
-      hashtag: 'reactFacebookShareButton',
-      quote: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      appid: '325242790993768',
+      href: 'https://stock.cnyes.com/market/OTC:6111:STOCK',
+      title: '大宇資 (6111) 即時股價走勢 | 股市Talk | 鉅亨網',
+      desc: '大宇資 (6111) 個股相關新聞、即時股價、當日走勢、20年技術分析K線圖',
+      picture: 'https://www.tradingview.com/x/ogIL92lC',
+      hashtag: '大宇資',
+      quote: "吳阿彥11:26 #大宇資 回到起漲點了 慘"
     }
   }
 
