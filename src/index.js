@@ -12,7 +12,7 @@ class App extends Component {
       desc: '大宇資 (6111) 個股相關新聞、即時股價、當日走勢、20年技術分析K線圖',
       picture: 'https://www.tradingview.com/x/ogIL92lC',
       hashtag: '大宇資',
-      quote: "吳阿彥11:26 #大宇資 回到起漲點了 慘"
+      quote: '吳阿彥11:26 #大宇資 回到起漲點了 慘'
     }
   }
 
